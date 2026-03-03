@@ -1,0 +1,168 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "الأولى المغربية",
+      "nameEn": "Al Aoula",
+      "category": "morocco",
+      "logo": "🇲🇦",
+      "color": "#c8102e",
+      "stream": "https://stream-lb.livemediama.com/alaoula-tnt/hls/stream_4/playlist.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "name": "القناة الثانية 2M",
+      "nameEn": "2M Maroc",
+      "category": "morocco",
+      "logo": "2️⃣M",
+      "color": "#0057a8",
+      "stream": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "الرياضية المغربية",
+      "nameEn": "Arrabiaa Sport",
+      "category": "sports",
+      "logo": "⚽",
+      "color": "#00843d",
+      "stream": "https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "ميدي 1 تيفي",
+      "nameEn": "Medi1 TV",
+      "category": "morocco",
+      "logo": "📡",
+      "color": "#e67e22",
+      "stream": "https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "الجزيرة",
+      "nameEn": "Al Jazeera",
+      "category": "news",
+      "logo": "🌐",
+      "color": "#e63a11",
+      "stream": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "name": "العربية",
+      "nameEn": "Al Arabiya",
+      "category": "news",
+      "logo": "📰",
+      "color": "#006994",
+      "stream": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "isFavorite": false
+    },
+        {
+      "id": 7,
+      "name": "الحدث ",
+      "nameEn": "alhadath",
+      "category": "news",
+      "logo": "📰",
+      "color": "#117a65",
+      "stream": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "name": "MBC 1",
+      "nameEn": "MBC 1",
+      "category": "mbc",
+      "logo": "MBC",
+      "color": "#2c3e50",
+      "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "name": "MBC 2",
+      "nameEn": "MBC 2",
+      "category": "mbc",
+      "logo": "MB2",
+      "color": "#1a252f",
+      "stream": "https://shls-live-ak.bbcrewind.co.uk/hls/pool-9-ingress-6/B006Q54O26/index.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 10,
+      "name": "MBC 4",
+      "nameEn": "MBC 4",
+      "category": "mbc",
+      "logo": "🎭",
+      "color": "#6c3483",
+      "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 11,
+      "name": "MBC Action",
+      "nameEn": "MBC Action",
+      "category": "mbc",
+      "logo": "🎬",
+      "color": "#922b21",
+      "stream": "https://shls-live-ak.bbcrewind.co.uk/hls/pool-9-ingress-6/B006Q54O26/B006Q54O26.isml/index.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 12,
+      "name": "MBC 5",
+      "nameEn": "MBC 5",
+      "category": "mbc",
+      "logo": "🏆",
+      "color": "#4a235a",
+      "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
+      "isFavorite": false
+    },
+        {
+      "id": 13,
+      "name": "MBC MASR2",
+      "nameEn": "MBC MASR2",
+      "category": "mbc",
+      "logo": "🏆",
+      "color": "#4a235a",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+      "isFavorite": false
+    },
+        {
+      "id": 13,
+      "name": "MBC MASR",
+      "nameEn": "MBC MASR",
+      "category": "mbc",
+      "logo": "🏆",
+      "color": "#4a235a",
+      "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+      "isFavorite": false
+    },
+        {
+      "id": 15,
+      "name": "بي إن سبورت",
+      "nameEn": "beIN Sports",
+      "category": "sports",
+      "logo": "🏆",
+      "color": "#4a235a",
+      "stream": "https://b-hls-14.doppiocast.com/live/bein_sports_hd_1/index.m3u8",
+      "isFavorite": false
+    },
+        {
+      "id": 16,
+      "name": "test",
+      "nameEn": "test1",
+      "category": "test1",
+      "logo": "🏆",
+      "color": "#4a235a",
+      "stream": "https://b-hls-14.doppiocastr.com/live/bein_sports_hd_1/index.m3u8",
+      "isFavorite": false
+    }
+
+
+
+  
+]
+}
