@@ -85,7 +85,7 @@
       "name": "MBC 2",
       "nameEn": "MBC 2",
       "category": "mbc",
-      "logo": "MB2",
+      "logo": "MBC2",
       "color": "#1a252f",
       "stream": "https://shls-live-ak.bbcrewind.co.uk/hls/pool-9-ingress-6/B006Q54O26/index.m3u8",
       "isFavorite": false
@@ -95,7 +95,7 @@
       "name": "MBC 4",
       "nameEn": "MBC 4",
       "category": "mbc",
-      "logo": "🎭",
+      "logo": "MBC4",
       "color": "#6c3483",
       "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
       "isFavorite": false
@@ -125,7 +125,7 @@
       "name": "MBC MASR2",
       "nameEn": "MBC MASR2",
       "category": "mbc",
-      "logo": "🏆",
+      "logo": "M2",
       "color": "#4a235a",
       "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
       "isFavorite": false
@@ -135,7 +135,7 @@
       "name": "MBC MASR",
       "nameEn": "MBC MASR",
       "category": "mbc",
-      "logo": "🏆",
+      "logo": "M1",
       "color": "#4a235a",
       "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
       "isFavorite": false
@@ -167,4 +167,5 @@
 ]
 
 }
+
 
