@@ -5,9 +5,9 @@
       "name": "الأولى المغربية",
       "nameEn": "Al Aoula",
       "category": "morocco",
-      "logo": "🇲🇦",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/1/15/Logo_al_aoula.png",
       "color": "#c8102e",
-      "stream": "https://stream-lb.livemediama.com/alaoula-tnt/hls/stream_4/playlist.m3u8",
+      "stream": "https://stream-lb.livemediama.com/alaoula/hls/stream_1/playlist.m3u8",
       "isFavorite": false
     },
     {
@@ -15,9 +15,9 @@
       "name": "القناة الثانية 2M",
       "nameEn": "2M Maroc",
       "category": "morocco",
-      "logo": "2️⃣M",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/a/ac/2M_Logo.svg",
       "color": "#0057a8",
-      "stream": "https://stream-lb.livemediama.com/2m-tnt/hls/stream_4/playlist.m3u8",
+      "stream": "https://stream-lb.livemediama.com/2m/hls/stream_1/playlist.m3u8",
       "isFavorite": false
     },
     {
@@ -25,7 +25,7 @@
       "name": "الرياضية المغربية",
       "nameEn": "Arrabiaa Sport",
       "category": "sports",
-      "logo": "⚽",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Logo%2Barryadia%2Bmorocco.png",
       "color": "#00843d",
       "stream": "https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8",
       "isFavorite": false
@@ -35,7 +35,7 @@
       "name": "ميدي 1 تيفي",
       "nameEn": "Medi1 TV",
       "category": "morocco",
-      "logo": "📡",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png",
       "color": "#e67e22",
       "stream": "https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8",
       "isFavorite": false
@@ -45,7 +45,7 @@
       "name": "الجزيرة",
       "nameEn": "Al Jazeera",
       "category": "news",
-      "logo": "🌐",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0f/Al_Jazeera.svg",
       "color": "#e63a11",
       "stream": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
       "isFavorite": false
@@ -55,17 +55,17 @@
       "name": "العربية",
       "nameEn": "Al Arabiya",
       "category": "news",
-      "logo": "📰",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Al-Arabiya_new_logo.svg",
       "color": "#006994",
       "stream": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
       "isFavorite": false
     },
-        {
+    {
       "id": 7,
-      "name": "الحدث ",
+      "name": "الحدث",
       "nameEn": "alhadath",
       "category": "news",
-      "logo": "📰",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg",
       "color": "#117a65",
       "stream": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
       "isFavorite": false
@@ -75,7 +75,7 @@
       "name": "MBC 1",
       "nameEn": "MBC 1",
       "category": "mbc",
-      "logo": "M1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/MBC_1_Logo.svg",
       "color": "#2c3e50",
       "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
       "isFavorite": false
@@ -85,7 +85,7 @@
       "name": "MBC 2",
       "nameEn": "MBC 2",
       "category": "mbc",
-      "logo": "M2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/MBC2_Logo.svg",
       "color": "#1a252f",
       "stream": "https://shls-live-ak.bbcrewind.co.uk/hls/pool-9-ingress-6/B006Q54O26/index.m3u8",
       "isFavorite": false
@@ -95,7 +95,7 @@
       "name": "MBC 4",
       "nameEn": "MBC 4",
       "category": "mbc",
-      "logo": "M4",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/MBC_4_TV_Channel_Logo.png",
       "color": "#6c3483",
       "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
       "isFavorite": false
@@ -105,7 +105,7 @@
       "name": "MBC Action",
       "nameEn": "MBC Action",
       "category": "mbc",
-      "logo": "MA",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/MBC_Action_Logo.svg",
       "color": "#922b21",
       "stream": "https://shls-live-ak.bbcrewind.co.uk/hls/pool-9-ingress-6/B006Q54O26/B006Q54O26.isml/index.m3u8",
       "isFavorite": false
@@ -115,58 +115,252 @@
       "name": "MBC 5",
       "nameEn": "MBC 5",
       "category": "mbc",
-      "logo": "M5",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/48/MBC_5_Logo.svg",
       "color": "#4a235a",
       "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
       "isFavorite": false
     },
-        {
+    {
       "id": 13,
       "name": "MBC MASR2",
       "nameEn": "MBC MASR2",
       "category": "mbc",
-      "logo": "M2",
-      "color": "#4a235a",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/MBC_Masr_2_Logo.svg",
+      "color": "#117a65",
       "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
       "isFavorite": false
     },
-        {
-      "id": 13,
+    {
+      "id": 14,
       "name": "MBC MASR",
       "nameEn": "MBC MASR",
       "category": "mbc",
-      "logo": "M1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",
       "color": "#4a235a",
       "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
       "isFavorite": false
     },
-        {
+    {
       "id": 15,
       "name": "بي إن سبورت",
       "nameEn": "beIN Sports",
       "category": "sports",
-      "logo": "BS",
-      "color": "#4a235a",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#117a65",
       "stream": "https://b-hls-14.doppiocast.com/live/bein_sports_hd_1/index.m3u8",
       "isFavorite": false
     },
-        {
+    {
       "id": 16,
       "name": "test",
       "nameEn": "test1",
       "category": "test1",
-      "logo": "T",
+      "logo": "https://via.placeholder.com/200x200?text=TEST",
       "color": "#4a235a",
       "stream": "https://b-hls-14.doppiocastr.com/live/bein_sports_hd_1/index.m3u8",
       "isFavorite": false
+    },
+    {
+      "id": 17,
+      "name": "بي إن سبورت نيوز",
+      "nameEn": "beIN Sports News HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 18,
+      "name": "بي إن سبورت HD",
+      "nameEn": "beIN Sports HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 19,
+      "name": "بي إن سبورت 1",
+      "nameEn": "beIN Sports 1 HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 20,
+      "name": "بي إن سبورت 2",
+      "nameEn": "beIN Sports 2 HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 21,
+      "name": "بي إن سبورت 3",
+      "nameEn": "beIN Sports 3 HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 22,
+      "name": "بي إن سبورت 4",
+      "nameEn": "beIN Sports 4 HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 23,
+      "name": "بي إن سبورت 5",
+      "nameEn": "beIN Sports 5 HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 24,
+      "name": "بي إن سبورت 6",
+      "nameEn": "beIN Sports 6 HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 25,
+      "name": "بي إن سبورت 7",
+      "nameEn": "beIN Sports 7 HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 26,
+      "name": "بي إن سبورت 8",
+      "nameEn": "beIN Sports 8 HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 27,
+      "name": "بي إن سبورت 11",
+      "nameEn": "beIN Sports 11 HD EN",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 28,
+      "name": "بي إن سبورت 12",
+      "nameEn": "beIN Sports 12 HD EN",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 29,
+      "name": "بي إن سبورت 13",
+      "nameEn": "beIN Sports 13 HD FR",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 30,
+      "name": "بي إن سبورت 14",
+      "nameEn": "beIN Sports 14 HD FR",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 31,
+      "name": "بي إن سبورت 15",
+      "nameEn": "beIN Sports 15 HD ES",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#006f62",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 32,
+      "name": "الكأس الأولى",
+      "nameEn": "Alkass One",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alkass_Sports_Channel_Logo.svg/200px-Alkass_Sports_Channel_Logo.svg.png",
+      "color": "#b5881d",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 33,
+      "name": "الكأس الثانية",
+      "nameEn": "Alkass Two",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alkass_Sports_Channel_Logo.svg/200px-Alkass_Sports_Channel_Logo.svg.png",
+      "color": "#b5881d",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 34,
+      "name": "بي إن سبورت NBA",
+      "nameEn": "beIN Sports NBA HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#c1440e",
+      "stream": "",
+      "isFavorite": false
+    },
+    {
+      "id": 35,
+      "name": "بي إن FOX سبورت",
+      "nameEn": "beIN Sports FOX Sports HD",
+      "category": "sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
+      "color": "#0057a8",
+      "stream": "",
+      "isFavorite": false
+
+    },
+
+        {
+      "id": 1,
+      "name": "الأولى المغربية TNT ",
+      "nameEn": "Al Aoula TNT",
+      "category": "morocco",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/1/15/Logo_al_aoula.png",
+      "color": "#c8102e",
+      "stream": "https://stream-lb.livemediama.com/alaoula-tnt/hls/stream_4/playlist.m3u8",
+      "isFavorite": false
     }
-
-
-
-  
-]
-
+  ]
 }
-
-
-
