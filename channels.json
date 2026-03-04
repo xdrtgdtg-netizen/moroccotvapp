@@ -75,7 +75,7 @@
       "name": "MBC 1",
       "nameEn": "MBC 1",
       "category": "mbc",
-      "logo": "MBC",
+      "logo": "M1",
       "color": "#2c3e50",
       "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
       "isFavorite": false
@@ -85,7 +85,7 @@
       "name": "MBC 2",
       "nameEn": "MBC 2",
       "category": "mbc",
-      "logo": "MBC2",
+      "logo": "M2",
       "color": "#1a252f",
       "stream": "https://shls-live-ak.bbcrewind.co.uk/hls/pool-9-ingress-6/B006Q54O26/index.m3u8",
       "isFavorite": false
@@ -95,7 +95,7 @@
       "name": "MBC 4",
       "nameEn": "MBC 4",
       "category": "mbc",
-      "logo": "MBC4",
+      "logo": "M4",
       "color": "#6c3483",
       "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
       "isFavorite": false
@@ -105,7 +105,7 @@
       "name": "MBC Action",
       "nameEn": "MBC Action",
       "category": "mbc",
-      "logo": "🎬",
+      "logo": "MA",
       "color": "#922b21",
       "stream": "https://shls-live-ak.bbcrewind.co.uk/hls/pool-9-ingress-6/B006Q54O26/B006Q54O26.isml/index.m3u8",
       "isFavorite": false
@@ -115,7 +115,7 @@
       "name": "MBC 5",
       "nameEn": "MBC 5",
       "category": "mbc",
-      "logo": "https://i.imgur.com/fRWaDyF.png",
+      "logo": "M5",
       "color": "#4a235a",
       "stream": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
       "isFavorite": false
@@ -145,7 +145,7 @@
       "name": "بي إن سبورت",
       "nameEn": "beIN Sports",
       "category": "sports",
-      "logo": "🏆",
+      "logo": "BS",
       "color": "#4a235a",
       "stream": "https://b-hls-14.doppiocast.com/live/bein_sports_hd_1/index.m3u8",
       "isFavorite": false
@@ -155,7 +155,7 @@
       "name": "test",
       "nameEn": "test1",
       "category": "test1",
-      "logo": "🏆",
+      "logo": "T",
       "color": "#4a235a",
       "stream": "https://b-hls-14.doppiocastr.com/live/bein_sports_hd_1/index.m3u8",
       "isFavorite": false
@@ -167,5 +167,6 @@
 ]
 
 }
+
 
 
