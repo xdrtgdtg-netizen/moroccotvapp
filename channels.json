@@ -352,15 +352,47 @@
 
     },
 
-        {
-      "id": 1,
+    {
+      "id": 36,
       "name": "الأولى المغربية TNT ",
       "nameEn": "Al Aoula TNT",
       "category": "morocco",
       "logo": "https://upload.wikimedia.org/wikipedia/ar/1/15/Logo_al_aoula.png",
       "color": "#c8102e",
-      "stream": "https://stream-lb.livemediama.com/alaoula-tnt/hls/stream_4/playlist.m3u8",
+      "stream": "https://stream-lb.livemediama.com/alaoula-tnt/hls/stream_1/playlist.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 37,
+      "name": "الرياضية المغربية الأولى",
+      "nameEn": "Arryadia HD",
+      "category": "morocco",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/1/15/Logo_al_aoula.png",
+      "color": "#c8102e",
+      "stream": "https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_1/playlist.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 38,
+      "name": "الرياضية المغربية الثانية",
+      "nameEn": "Arryadia HD",
+      "category": "morocco",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/1/15/Logo_al_aoula.png",
+      "color": "#c8102e",
+      "stream": "https://stream-lb.livemediama.com/arryadia-hd-02/hls/stream_1/playlist.m3u8",
+      "isFavorite": false
+    },
+    {
+      "id": 39,
+      "name": "الرياضية المغربية الثالثة",
+      "nameEn": "Arryadia HD",
+      "category": "morocco",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/1/15/Logo_al_aoula.png",
+      "color": "#c8102e",
+      "stream": "https://stream-lb.livemediama.com/arryadia-hd-03/hls/stream_1/playlist.m3u8",
       "isFavorite": false
     }
+
+
   ]
 }
