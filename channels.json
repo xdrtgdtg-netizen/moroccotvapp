@@ -150,16 +150,7 @@
       "stream": "https://b-hls-14.doppiocast.com/live/bein_sports_hd_1/index.m3u8",
       "isFavorite": false
     },
-    {
-      "id": 16,
-      "name": "test",
-      "nameEn": "test1",
-      "category": "test1",
-      "logo": "https://via.placeholder.com/200x200?text=TEST",
-      "color": "#4a235a",
-      "stream": "https://b-hls-14.doppiocastr.com/live/bein_sports_hd_1/index.m3u8",
-      "isFavorite": false
-    },
+
     {
       "id": 17,
       "name": "بي إن سبورت نيوز",
@@ -187,7 +178,7 @@
       "category": "sports",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",
       "color": "#006f62",
-      "stream": "",
+      "stream": "https://foozlive.s3.us-east-1.amazonaws.com/live1.html",
       "isFavorite": false
     },
     {
